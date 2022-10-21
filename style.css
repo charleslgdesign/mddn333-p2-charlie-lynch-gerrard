@@ -1,0 +1,13 @@
+
+  
+  .canvasContainer {
+    display:block;
+    transform:translateY(20%);
+  }
+
+  .description {
+
+
+    max-width:70%;
+
+  }
